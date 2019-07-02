@@ -11,7 +11,7 @@
 
 ## Về công việc cá nhân
 
-- [ ] Tìm hiểu & thực hành về git
+- [x] Tìm hiểu & thực hành về git
 - [ ] Config môi trường lập trình trên vscode
 - [ ] Tìm hiểu về Identity
 - [ ] Tìm hiểu về Membership
