@@ -12,7 +12,7 @@
 ## Về công việc cá nhân
 
 - [x] Tìm hiểu & thực hành về git
-- [ ] Config môi trường lập trình trên vscode
+- [x] Config môi trường lập trình trên vscode
 - [ ] Tìm hiểu về Identity
 - [ ] Tìm hiểu về Membership
 - [ ] Tìm hiểu về Peers
