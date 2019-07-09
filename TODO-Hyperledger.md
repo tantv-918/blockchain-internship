@@ -13,8 +13,8 @@
 
 - [x] Tìm hiểu & thực hành về git
 - [x] Config môi trường lập trình trên vscode
-- [ ] Tìm hiểu về Identity
-- [ ] Tìm hiểu về Membership
+- [X] Tìm hiểu về Identity
+- [X] Tìm hiểu về Membership
 - [ ] Tìm hiểu về Peers
 - [ ] Tìm hiểu về Chaincode
 - [ ] Tìm hiểu về Ledger và database
