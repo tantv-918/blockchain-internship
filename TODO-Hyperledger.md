@@ -15,18 +15,17 @@
 - [x] Config môi trường lập trình trên vscode
 - [X] Tìm hiểu về Identity
 - [X] Tìm hiểu về Membership
-- [ ] Tìm hiểu về Peers
-- [ ] Tìm hiểu về Chaincode
-- [ ] Tìm hiểu về Ledger và database
-- [ ] Tìm hiểu về Orderer
-- [ ] Tìm hiểu về Private Data
-- [ ] Tìm hiểu về consensus
-- [ ] Chạy & lý giải toàn bộ các tutorial chuẩn của Fabric
+- [X] Tìm hiểu về Peers
+- [X] Tìm hiểu về Chaincode
+- [X] Tìm hiểu về Ledger và database
+- [X] Tìm hiểu về Orderer
+- [X] Tìm hiểu về Private Data
+- [X] Tìm hiểu về consensus
+- [X] Chạy & lý giải toàn bộ các tutorial chuẩn của Fabric
 - [ ] Tìm hiểu & thực hành về docker
 - [ ] Tự viết docker-compose để tạo network
 - [ ] Tự viết script để start/stop network
 - [ ] Thực hành thêm/sửa/xóa các thành phần trong network
-- [ ] Tìm hiểu về Private Data
 - [ ] Thực hành tạo và quản lý accounts & wallet
 - [ ] Tìm hiểu & thực hành NodeJS
 - [ ] Tìm hiểu & thực hành viết chaincode với NodeJS & Golang
